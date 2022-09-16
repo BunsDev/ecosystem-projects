@@ -1,0 +1,18 @@
+{
+  "name": "SoulSwap",
+  "slug": "soulswap",
+  "tags": ["exchange", "defi"],
+  "status": "",
+  "highlight": "Swap, yield, lend, borrow, leverage, limit, and launch on a single, Soul-powered, community-driven, multi-chain ecosystem.",
+  "logo": "/img/soulswap.svg",
+  "website": "https://soul.sh",
+  "twitter": "https://twitter.com/SoulSwapFinance",
+  "telegram": "https://t.me/SoulSwapDeFi",
+  "github": "https://github.com/SoulSwapFinance",
+  "discord": "https://discord.com/invite/SoulSwap",
+  "summary": "Swap, yield, lend, borrow, leverage, limit, and launch on a single, Soul-powered, community-driven, multi-chain ecosystem.",
+  "docs": "https://docs.SoulSwap.finance",
+  "cmc": "https://coinmarketcap.com/currencies/soulswap-finance/",
+  "date": "",
+  "token": "SOUL"
+}
